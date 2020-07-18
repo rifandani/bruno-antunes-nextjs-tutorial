@@ -1,5 +1,5 @@
 {
-  "name": "car-trader-app",
+  "name": "bruno-antunes-tutorial",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "axios": "^0.19.2",
     "bcrypt": "^5.0.0",
     "cookie": "^0.4.1",
+    "formik": "^2.1.5",
     "isomorphic-unfetch": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
     "next": "9.3.6",
@@ -22,7 +23,8 @@
     "react-dom": "16.13.1",
     "sqlite": "4.0.7",
     "sqlite3": "4.2.0",
-    "swr": "^0.2.3"
+    "swr": "^0.2.3",
+    "yup": "^0.29.1"
   },
   "devDependencies": {
     "@types/bcrypt": "^3.0.0",
